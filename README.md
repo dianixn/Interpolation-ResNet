@@ -3,4 +3,4 @@ Invited paper for WSA 2021, called 'Low Complexity Channel estimation with Neura
 
 Low complexity residual convolutional neural network for channel estimation
 
-Conpared with the ReEsNet from the repo Residual_CNN, it has slightly improved performance and the number of parameters is reduced by 82% (when pruning is not applied). I use the neural network for both time interpolation and frequency interpolation, and for denoising. 
+Conpared with the ReEsNet from the repo Residual_CNN, it has slightly improved performance and the number of parameters is reduced by 82% (when pruning is not applied). 
