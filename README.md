@@ -1,5 +1,7 @@
 # Interpolation-ResNet
-Invited paper for WSA 2021, called 'Low Complexity Channel estimation with Neural Network Solutions'.
+Invited paper for WSA 2021, called 'Low Complexity Channel estimation with Neural Network Solutions'. 
+
+Code demonstration: https://www.bilibili.com/video/BV11Y411r7Gj/?spm_id_from=333.337.search-card.all.click
 
 Low complexity residual convolutional neural network for channel estimation
 
