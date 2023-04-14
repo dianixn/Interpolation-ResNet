@@ -1,6 +1,7 @@
 # Interpolation-ResNet
 Invited paper for WSA 2021, called 'Low Complexity Channel estimation with Neural Network Solutions'. 
 
+%%
 Cite as: 
   
   @INPROCEEDINGS{9739166,
@@ -12,6 +13,7 @@ Cite as:
   number={},
   pages={1-6},
   doi={}}
+%%
 
 Low complexity residual convolutional neural network for channel estimation
 
