@@ -2,15 +2,15 @@
 Invited paper for WSA 2021, called 'Low Complexity Channel estimation with Neural Network Solutions'. 
 
 Cite as 
-  @INPROCEEDINGS{9739166,
-  author={Luan, Dianxin and Thompson, John},
-  booktitle={WSA 2021; 25th International ITG Workshop on Smart Antennas}, 
-  title={Low Complexity Channel estimation with Neural Network Solutions}, 
-  year={2021},
-  volume={},
-  number={},
-  pages={1-6},
-  doi={}}
+        @INPROCEEDINGS{9739166,
+        author={Luan, Dianxin and Thompson, John},
+        booktitle={WSA 2021; 25th International ITG Workshop on Smart Antennas}, 
+        title={Low Complexity Channel estimation with Neural Network Solutions}, 
+        year={2021},
+        volume={},
+        number={},
+        pages={1-6},
+        doi={}}
 
 Low complexity residual convolutional neural network for channel estimation
 
